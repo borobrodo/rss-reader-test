@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RSS_test
-build_property.ProjectDir = c:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\
+build_property.ProjectDir = c:\Users\buginred\Documents\dotnet.projects\playground\rss-reader-test\
