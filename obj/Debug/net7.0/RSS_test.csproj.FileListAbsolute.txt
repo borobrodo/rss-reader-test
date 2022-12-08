@@ -1,0 +1,17 @@
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\RSS_test.exe
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\RSS_test.deps.json
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\RSS_test.runtimeconfig.json
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\RSS_test.dll
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\RSS_test.pdb
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\bin\Debug\net7.0\System.ServiceModel.Syndication.dll
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.csproj.AssemblyReference.cache
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.AssemblyInfoInputs.cache
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.AssemblyInfo.cs
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.csproj.CoreCompileInputs.cache
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.csproj.CopyComplete
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.dll
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\refint\RSS_test.dll
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.pdb
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\RSS_test.genruntimeconfig.cache
+C:\Users\buginred\Documents\dotnet.projects\playground\RSS_test\obj\Debug\net7.0\ref\RSS_test.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dpzZ5bzNfZYUEQZXmMd1GTkbo115EV1S4MZBeZnUN27c33ZfUQz53iHQpX9Dsvca74dnqpixiM0YsFJlGR0FA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buginred\\Documents\\dotnet.projects\\playground\\RSS_test\\RSS_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buginred\\.nuget\\packages\\system.servicemodel.syndication\\7.0.0\\system.servicemodel.syndication.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
